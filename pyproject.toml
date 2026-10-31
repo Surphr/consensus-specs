@@ -2,7 +2,7 @@
 requires = [
   "marko==2.1.4",
   "ruamel.yaml==0.18.14",
-  "setuptools==80.9.0",
+  "setuptools==84.1.0",
   "wheel==0.45.1",
 ]
 
@@ -26,7 +26,7 @@ dependencies = [
   "pycryptodome==3.23.0",
   "remerkleable==0.1.28",
   "ruamel.yaml==0.18.14",
-  "setuptools==80.9.0",
+  "setuptools==84.1.0",
   "trie==3.1.0",
 ]
 
